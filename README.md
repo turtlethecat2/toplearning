@@ -1,2 +1,4 @@
 # toplearning
-learning with the odin projec
+learning with the odin project
+
+"Hello Odin!"
